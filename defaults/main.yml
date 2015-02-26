@@ -1,4 +1,6 @@
 ---
 # defaults file for mapr-tasktracker
+classic_enabled: True
 
 proxy_env: { }
+
